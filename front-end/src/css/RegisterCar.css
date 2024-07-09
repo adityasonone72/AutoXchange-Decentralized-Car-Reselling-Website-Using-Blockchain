@@ -1,0 +1,8 @@
+.registerCar-maindiv{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.registerCar-maindiv .form-control{
+    width: 90%;
+}
